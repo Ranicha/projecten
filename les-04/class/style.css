@@ -1,0 +1,59 @@
+body {
+   	padding: 0;
+	display: block;
+	background-color: pink;
+}
+
+header {
+	display: block;
+	padding: 1em;
+}
+
+.tekst5 {
+padding-right: 680px;
+
+}
+
+.afb1 {
+	width:30%;
+	float: right;
+	padding-left: 200px;
+	margin-right: 190px;
+}
+
+.afb2 {
+	width: 30%;
+	float: right;
+	padding-right: 38px;
+}
+
+.afb3 {
+	width: 30%;
+	float: right;
+	padding-right: 200px;
+}
+
+section {
+	padding: 1em;
+}
+
+.k1 {
+	display: flex;
+	padding: 1em;
+}
+
+.k2 {
+	display: flex;
+	padding: 1em;
+	width: 60%;
+}
+
+.k3 {
+	display: flex;
+	padding: 1em;
+}
+
+.k4 {
+	display: block;
+	padding: 1em;
+}
